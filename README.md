@@ -5,3 +5,5 @@
 <font color=cyan>cyan 这是一个测试颜色2</font>  
 <font color=red> red not hight</font>  
 <font color=yellow> bkyellow background yellow</font>  
+
+[Clangbuilder](/fcharlie/clangbuilder)
